@@ -1,0 +1,8 @@
+/*********************************************
+Your name: Kori
+Question 2: 189 megabytes are free, 6266 megabytes are available 
+Question 4: The Amount of memory available goes up or down based on the amount of memory used by the process. When the process is killed the space is given back to available.
+Question 6: The challenges I faced most were figuring out what exactly I was reading, how to take the information from the argument when it is typed as a character.
+Question 7: They use a lot more entities compared to our simple conception
+Question 8: I see more entities than expected, likely because more than just the stack variables are running and I just don't know it.
+*********************************************/
